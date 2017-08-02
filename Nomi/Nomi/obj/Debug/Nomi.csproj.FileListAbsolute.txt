@@ -1,0 +1,6 @@
+D:\Programming\NoMI#\Nomi\Nomi\bin\Debug\Nomi.exe.config
+D:\Programming\NoMI#\Nomi\Nomi\bin\Debug\Nomi.exe
+D:\Programming\NoMI#\Nomi\Nomi\bin\Debug\Nomi.pdb
+D:\Programming\NoMI#\Nomi\Nomi\obj\Debug\Nomi.csprojResolveAssemblyReference.cache
+D:\Programming\NoMI#\Nomi\Nomi\obj\Debug\Nomi.exe
+D:\Programming\NoMI#\Nomi\Nomi\obj\Debug\Nomi.pdb

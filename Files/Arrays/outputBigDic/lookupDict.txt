@@ -1,0 +1,23 @@
+arrayNumber	filepath
+1	D:\Programming\NoMI#\Files\Arrays\VM1 ZKF_251485049115_S01_GE1-v5_95_Feb07_1_1.txt
+2	D:\Programming\NoMI#\Files\Arrays\VM10 ZKF_251485049115_S01_GE1-v5_95_Feb07_1_4.txt
+3	D:\Programming\NoMI#\Files\Arrays\VM14 ZKF_251485049923_S01_GE1_107_Sep09_1_3.txt
+4	D:\Programming\NoMI#\Files\Arrays\VM15 ZKF_251485049920_S01_GE1_107_Sep09_1_1.txt
+5	D:\Programming\NoMI#\Files\Arrays\VM19 ZKF_251485049920_S01_GE1_107_Sep09_1_3.txt
+6	D:\Programming\NoMI#\Files\Arrays\VM21 ZKF_251485049117_S01_GE1-v5_95_Feb07_1_4.txt
+7	D:\Programming\NoMI#\Files\Arrays\VM23 ZKF_251485049116_S01_GE1-v5_95_Feb07_1_2.txt
+8	D:\Programming\NoMI#\Files\Arrays\VM24 ZKF_251485049116_S01_GE1-v5_95_Feb07_1_3.txt
+9	D:\Programming\NoMI#\Files\Arrays\VM25 ZKF_251485049921_S01_GE1_107_Sep09_1_1.txt
+10	D:\Programming\NoMI#\Files\Arrays\VM26 ZKF_251485049921_S01_GE1_107_Sep09_1_4.txt
+11	D:\Programming\NoMI#\Files\Arrays\VM28 ZKF_251485049117_S01_GE1-v5_95_Feb07_1_2.txt
+12	D:\Programming\NoMI#\Files\Arrays\VM30 ZKF_251485049115_S01_GE1-v5_95_Feb07_1_3.txt
+13	D:\Programming\NoMI#\Files\Arrays\VM34 ZKF_251485049921_S01_GE1_107_Sep09_1_2.txt
+14	D:\Programming\NoMI#\Files\Arrays\VM4 ZKF_251485049117_S01_GE1-v5_95_Feb07_1_3.txt
+15	D:\Programming\NoMI#\Files\Arrays\VM41 ZKF_251485049921_S01_GE1_107_Sep09_1_3.txt
+16	D:\Programming\NoMI#\Files\Arrays\VM44 ZKF_251485049923_S01_GE1_107_Sep09_1_2.txt
+17	D:\Programming\NoMI#\Files\Arrays\VM47 ZKF_251485049117_S01_GE1-v5_95_Feb07_1_1.txt
+18	D:\Programming\NoMI#\Files\Arrays\VM48 ZKF_251485049116_S01_GE1-v5_95_Feb07_1_4.txt
+19	D:\Programming\NoMI#\Files\Arrays\VM53 ZKF_251485049920_S01_GE1_107_Sep09_1_4.txt
+20	D:\Programming\NoMI#\Files\Arrays\VM54 ZKF_251485049923_S01_GE1_107_Sep09_1_4.txt
+21	D:\Programming\NoMI#\Files\Arrays\VM7 ZKF_251485049116_S01_GE1-v5_95_Feb07_1_1.txt
+22	D:\Programming\NoMI#\Files\Arrays\VM8 ZKF_251485049920_S01_GE1_107_Sep09_1_2.txt
