@@ -1,0 +1,9 @@
+Get Data from Array Express: 
+https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3732/
+
+Download: E-MTAB-3732.processed.1.zip (11GB)
+
+data including 27887 Affymetrix HG-U133Plus2 arrays
+
+New Information: we shall always try to sort by EntrezID!! 
+Data normalization was carried out using fRMA in R Bioconductor
