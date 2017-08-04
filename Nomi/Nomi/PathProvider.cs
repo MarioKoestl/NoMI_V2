@@ -16,7 +16,7 @@ namespace Nomi
 
         static PathProvider()
         {
-            MainFilePath = @"D:\Programming\NoMI#\Files";
+            MainFilePath = @"D:\Programming\NoMI_V2\Files";
             HugoFilePath = Path.Combine(MainFilePath, "HUGO_edit.txt");
             ArrayPath = Path.Combine(MainFilePath, "Arrays");
             ArrayLookupDictFilePath = Path.Combine(MainFilePath, @"Arrays\outputBigDic\lookupDict.txt");
